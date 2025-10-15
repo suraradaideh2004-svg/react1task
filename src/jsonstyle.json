@@ -1,0 +1,18 @@
+{
+  "container": {
+    "backgroundColor": "BLUE",
+    "padding": "40px",
+    "borderRadius": "10px",
+    "textAlign": "center"
+  },
+  "title": {
+    "color": "purple",
+    "fontSize": "28px",
+    "fontWeight": "bold",
+    "marginBottom": "10px"
+  },
+  "paragraph": {
+    "color": "teal",
+    "fontSize": "18px"
+  }
+}
